@@ -1,0 +1,65 @@
+[33mcommit a23d11ac83051f4e7b6de96fa50ea0c343adf06f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Tue Apr 15 21:10:34 2025 +0900
+
+    Tailwind CSS クラスを適用
+
+[33mcommit 8521d6597703ea6efcca3cd623af5638c77c5145[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Mon Apr 14 21:45:29 2025 +0900
+
+    トップページの統合テストを追加
+
+[33mcommit 6606dfb54faa0f478299cb43a4a0b742885000b1[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Mon Apr 14 20:47:33 2025 +0900
+
+    Home#topの実装・テストを追加
+
+[33mcommit 7d18a1798d1e3cc092dd906282540c8b3ba60b06[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sun Apr 13 11:48:15 2025 +0900
+
+    Lint
+
+[33mcommit ffc28442a1b36e93ff9623cf1279229a1c3703b9[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sun Apr 13 11:45:32 2025 +0900
+
+    Homeコントローラーとtopアクションを作成
+
+[33mcommit e46c0cffc5de2e84c13cd7e5e5b1992db8c5e5e5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sun Apr 13 08:40:41 2025 +0900
+
+    Lint
+
+[33mcommit 0dc20cb1a3585c65cf511ccaf8337ceb55b2f54e[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sun Apr 13 08:26:23 2025 +0900
+
+    rspecの初期設定を完了
+
+[33mcommit 7b074885de8738a51deda533d8a64f4d75379ef5[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sun Apr 13 08:05:38 2025 +0900
+
+    rails g時に不要ファイル自動生成されないように設定
+
+[33mcommit 366ce435a2aa7dd9a770aabb8d46ad72f4f1ce0f[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sat Apr 12 14:34:33 2025 +0900
+
+    Rubocopによる指摘事項修正
+
+[33mcommit 9a9f7d1173431176b17cb86d52d74d186dc831f6[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sat Apr 12 14:29:20 2025 +0900
+
+    Rubocopの初期設定を完了
+
+[33mcommit 24240f89b5b12dff3094302782dcef367d24bb7c[m
+Author: yoyoyo225 <kesuike225@yahoo.co.jp>
+Date:   Sat Apr 12 14:05:13 2025 +0900
+
+    プロジェクト開始
