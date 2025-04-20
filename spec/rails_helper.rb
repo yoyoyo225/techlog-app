@@ -69,4 +69,5 @@ RSpec.configure do |config|
   # config.filter_gems_from_backtrace("gem name")
 
   config.include Devise::Test::IntegrationHelpers, type: :system #テストの中でログイン機能を使用可能に
+  config.include Devise::Test::IntegrationHelpers, type: :request
 end
